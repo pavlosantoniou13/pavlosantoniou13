@@ -5,8 +5,6 @@ BSc Software Development student at Kristianstad University (2025–2028). I bui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlos-antoniou-a43653264/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavlosantoniou4@gmail.com)
 
-Currently seeking a **Summer 2027 internship** in technology / quantitative roles.
-
 ---
 
 ## Featured Projects
