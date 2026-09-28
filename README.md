@@ -9,19 +9,19 @@ BSc Software Development student at Kristianstad University (2025–2028). I bui
 
 ## Featured Projects
 
-### [Limit Orderbook and Trading Engine](https://github.com/pavlosantoniou13/REPO-NAME)
+### [Limit Orderbook and Trading Engine](https://github.com/pavlosantoniou13/Orderbook)
 `C++` `STL` `Concurrency`
 A matching engine supporting market and limit orders (GTC, GFD, FOK, FAK). Uses smart pointers and STL containers, with worker threads for time-based order pruning. Profiled throughput and match latency under simulated multi-threaded order flow: **[X orders/sec, Y µs median latency]**.
 
-### [Options Pricing Engine](https://github.com/pavlosantoniou13/REPO-NAME)
+### [Options Pricing Engine](https://github.com/pavlosantoniou13/Options-Pricing-Engine)
 `Python` `NumPy` `SciPy` `Matplotlib`
 Black-Scholes, Binomial Tree (CRR) and Monte Carlo pricers for European and American options. Includes a Greeks visualizer (Δ, Γ, ν, Θ, ρ) and automated convergence testing against the closed-form solution.
 
-### [Skilled Stakes](https://github.com/pavlosantoniou13/REPO-NAME)
+### [Skilled Stakes](https://github.com/pavlosantoniou13/Skilled_Stakes)
 `Node.js` `Socket.IO` `Solana Web3.js`
 A real-time multiplayer game with on-chain SOL staking. Event-driven server handling state sync, client reconciliation and tick-rate enforcement, with escrow smart-contract integration for non-custodial payouts.
 
-### [Blingo](https://github.com/pavlosantoniou13/REPO-NAME)
+### [Blingo](https://github.com/pavlosantoniou13/carpool)
 `Next.js` `Node.js` `Firebase`
 A carpooling platform with proximity-based matching, fare estimation and real-time location updates. CS50 final project.
 
