@@ -1,18 +1,42 @@
+# Pavlos Antoniou
 
-## 🌐 Socials:
+BSc Software Development student at Kristianstad University (2025–2028). I build low-latency systems and quantitative tools, with a focus on trading infrastructure and derivatives pricing.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlos-antoniou-a43653264/)
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavlosantoniou13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pavlosantoniou13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlosantoniou13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavlosantoniou4@gmail.com)
 
-
+Currently seeking a **Summer 2027 internship** in technology / quantitative roles in London.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavlosantoniou13&icon=0&color=12)](https://visitcount.itsvg.in)
 
+## Featured Projects
 
+### [Limit Orderbook and Trading Engine](https://github.com/pavlosantoniou13/REPO-NAME)
+`C++` `STL` `Concurrency`
+A matching engine supporting market and limit orders (GTC, GFD, FOK, FAK). Uses smart pointers and STL containers, with worker threads for time-based order pruning. Profiled throughput and match latency under simulated multi-threaded order flow: **[X orders/sec, Y µs median latency]**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavlosantoniou13&" alt="pavlosantoniou13" /></p>
+### [Options Pricing Engine](https://github.com/pavlosantoniou13/REPO-NAME)
+`Python` `NumPy` `SciPy` `Matplotlib`
+Black-Scholes, Binomial Tree (CRR) and Monte Carlo pricers for European and American options. Includes a Greeks visualizer (Δ, Γ, ν, Θ, ρ) and automated convergence testing against the closed-form solution.
+
+### [Skilled Stakes](https://github.com/pavlosantoniou13/REPO-NAME)
+`Node.js` `Socket.IO` `Solana Web3.js`
+A real-time multiplayer game with on-chain SOL staking. Event-driven server handling state sync, client reconciliation and tick-rate enforcement, with escrow smart-contract integration for non-custodial payouts.
+
+### [Blingo](https://github.com/pavlosantoniou13/REPO-NAME)
+`Next.js` `Node.js` `Firebase`
+A carpooling platform with proximity-based matching, fare estimation and real-time location updates. CS50 final project.
+
+---
+
+## Tech
+
+**Languages:** C++ · C · Python · JavaScript / TypeScript
+**Tools:** Docker · Git · Node.js · Next.js · Firebase
+**Libraries:** NumPy · SciPy · Matplotlib · Socket.IO · Solana Web3.js
+
+## Interests
+Financial markets, market microstructure, derivatives, economics and political philosophy.
+
+---
+<sub>CS50 (Harvard/edX) certified · British & Greek citizen · Based in Sweden</sub>
